@@ -114,9 +114,3 @@ for length, count in sorted(frequency.items()):
 #   "{:3d}" znamená, že první sloupec (délka slova) má šířku 3 znaky. 
 #   "{:15}" znamená, že druhý sloupec (hvězdičky) má délků 15 znaků. 
 #   "{:2d}" znamená, že třetí sloupec (počet slov) má také šířku 2 znaků.
-
-
-
-
-
-
